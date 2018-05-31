@@ -16,5 +16,5 @@ pdf- http://chesapeakesportpilot.com/wp-content/uploads/2015/03/military_wx_code
 1. It is not neccessary that temperature group exist 
 2. If temperature group exist, it must be just after the cloud group
 3. The first three letters of each cloud group denote sky coverage and the first 3 letters must be anyone among these- SKC, FEW, SCT, BKN, OVC
-4. Wind group will contain KT 
+4. Wind group contains KT 
 
